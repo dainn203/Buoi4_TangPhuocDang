@@ -1,0 +1,7 @@
+D:\Tài Liệu Học Tập Đại Học\HK Hè 2024\PTTKTT\Buoi4\TSP\TSP\bin\Debug\TSP.exe.config
+D:\Tài Liệu Học Tập Đại Học\HK Hè 2024\PTTKTT\Buoi4\TSP\TSP\bin\Debug\TSP.exe
+D:\Tài Liệu Học Tập Đại Học\HK Hè 2024\PTTKTT\Buoi4\TSP\TSP\bin\Debug\TSP.pdb
+D:\Tài Liệu Học Tập Đại Học\HK Hè 2024\PTTKTT\Buoi4\TSP\TSP\obj\Debug\TSP.csprojAssemblyReference.cache
+D:\Tài Liệu Học Tập Đại Học\HK Hè 2024\PTTKTT\Buoi4\TSP\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Học Tập Đại Học\HK Hè 2024\PTTKTT\Buoi4\TSP\TSP\obj\Debug\TSP.exe
+D:\Tài Liệu Học Tập Đại Học\HK Hè 2024\PTTKTT\Buoi4\TSP\TSP\obj\Debug\TSP.pdb
